@@ -1,4 +1,6 @@
-<h3 align="center">An existing Data Management analyst working to become a Data Scientist</h3>
+<h3 align="center">Welcome </h3>
+  
+  An existing Data Management analyst working to become a Data Scientist
 
 - 🔭 I’m currently working on **Data Analytics in Grad School.**
 
@@ -12,6 +14,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mayawalker08/](https://www.linkedin.com/in/mayawalker08/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
