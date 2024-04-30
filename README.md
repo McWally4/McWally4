@@ -1,6 +1,6 @@
 <h3 align="center">Welcome </h3>
   
-  An existing Data Management analyst working to become a Data Scientist
+  I am an existing Data Management analyst working to become a Data Scientist
 
 - 🔭 I’m currently working on **Data Analytics in Grad School.**
 
